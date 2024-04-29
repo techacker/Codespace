@@ -26,7 +26,7 @@ import "./styles.css";
 const siteProps = {
   name: "Anurag Bansal",
   title: "Web Designer & Content Creator",
-  email: "anuragbansal@anuragbansal.com",
+  email: "",
   gitHub: "techacker",
   instagram: "theanuragbansal",
   linkedIn: "anuragbansal",
